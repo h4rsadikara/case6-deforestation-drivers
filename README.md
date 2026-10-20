@@ -13,3 +13,5 @@ Grafik tersimpan di folder `outputs/`.
 
 ## Catatan
 Data pada proyek ini sintetis atau bawaan library agar bisa dijalankan tanpa dataset eksternal. Kesimpulan substantif perlu divalidasi dengan data nyata.
+
+## Afsha Dwi Saputra G1A025101
